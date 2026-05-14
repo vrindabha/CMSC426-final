@@ -188,7 +188,6 @@ calibration_*.npy
 *.mov
 *.mkv
 *.webm
-*.jpg
 *.jpeg
 
 *.bmp
